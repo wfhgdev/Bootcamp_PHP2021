@@ -1,9 +1,5 @@
 # Bootcamp Python - MisiónTIC 2022
 
-![Python Version](https://shields.io)
-![Maintained](https://shields.io)
-![Platform](https://shields.io)
-
 Este repositorio contiene todos los proyectos, retos de programación, laboratorios y ejercicios prácticos desarrollados durante el Bootcamp de Python en el marco del programa **MisiónTIC 2022**.
 
 ## 📌 Objetivo del Programa
